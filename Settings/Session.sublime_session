@@ -1,0 +1,432 @@
+{
+	"folder_history":
+	[
+		"/home/gaji/projects/social_stram_demo",
+		"/home/gaji/projects/chat_evnentmachine",
+		"/home/gaji/projects/teamaroo",
+		"/home/gaji/projects/chat"
+	],
+	"last_window_id": 6,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"message",
+						"messages"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"in",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inde",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"chea",
+						"Cheatsheet: PostgreSQL for :development"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"model",
+						"Simple Rails Navigator: List models"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gaji/projects/chat_evnentmachine/Gemfile",
+				"/home/gaji/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/gaji/.config/sublime-text-2/Packages/User/JavaScript.sublime-settings",
+				"/home/gaji/projects/teamaroo/app/assets/javascripts/calendars.js",
+				"/home/gaji/.config/sublime-text-2/Packages/Cheatsheets Rails/cheatsheets/psql_dev.bash",
+				"/home/gaji/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gaji/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"super"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"calen",
+						"app/assets/javascripts/calendars.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 288.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"message",
+						"messages"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/gaji/projects/social_stram_demo/Gemfile",
+					"settings":
+					{
+						"buffer_size": 1190,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"in",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inde",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"chea",
+						"Cheatsheet: PostgreSQL for :development"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"model",
+						"Simple Rails Navigator: List models"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gaji/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/gaji/.config/sublime-text-2/Packages/User/JavaScript.sublime-settings",
+				"/home/gaji/projects/teamaroo/app/assets/javascripts/calendars.js",
+				"/home/gaji/.config/sublime-text-2/Packages/Cheatsheets Rails/cheatsheets/psql_dev.bash",
+				"/home/gaji/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/gaji/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"super"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/gaji/projects/social_stram_demo"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/gaji/projects/social_stram_demo/Gemfile",
+							"settings":
+							{
+								"buffer_size": 1190,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										488,
+										488
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 94.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,2966,900",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"calen",
+						"app/assets/javascripts/calendars.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 288.0,
+			"status_bar_visible": true,
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

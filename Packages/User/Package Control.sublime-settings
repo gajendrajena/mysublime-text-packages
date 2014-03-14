@@ -1,0 +1,33 @@
+{
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"Cheatsheets Rails",
+		"CoffeeScript",
+		"CoffeeScriptHaml",
+		"Gist",
+		"Git",
+		"Github Tools",
+		"Haml",
+		"HTML2Haml",
+		"Javascript Beautify",
+		"JS2Coffee",
+		"Package Control",
+		"Rails Developer Snippets",
+		"Rails File Switcher",
+		"Rails I18n Helper",
+		"Rails Latest Migration",
+		"Rails Migrations List",
+		"Rails Partial",
+		"Rails Related Files",
+		"RSpec",
+		"RSpec (snippets and syntax)",
+		"rspec-snippets",
+		"RspecBuild",
+		"RSpecNavigator",
+		"RubyTest",
+		"SCSS",
+		"Simple Rails Navigator",
+		"SVN"
+	]
+}
